@@ -1,1 +1,0 @@
-此项目为Hexo博客相册搭建教程，具体搭建教程参考文章：https://malizhi.cn/HexoAlbum/
